@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was vanilla css with  with react.
+This project was vanilla CSS with react.
 
 ## Available Features
 
