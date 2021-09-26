@@ -1,0 +1,14 @@
+.details{
+    display: flex;    
+    align-items: center;
+
+}
+.details img{
+    height: 60px;
+    width: 60px;
+}
+.details h4{
+    border: 1px solid white;
+    padding: 5px;
+    flex-grow: 8;
+}

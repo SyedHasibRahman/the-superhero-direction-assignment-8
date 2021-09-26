@@ -1,0 +1,167 @@
+[
+  {
+    "key": "614f7cd748683d895b3254e3",
+    "salary": "1213.40",
+    "picture": "https://profmnhuda.com/wp-content/uploads/2019/11/pro.huda_.single.jpg",
+    "age": 46,
+    "name": "Prof. Dr. M.N. Huda",
+    "Categories": "Dermatologist in Dhaka",
+    "hospital": "Dhaka Medical College & Hospital",
+    "phone": "+8809613787805",
+    "address": "House # 25, Road # 7, Sector # 4, Uttara, Dhaka (Unit 02)"
+  },
+  {
+    "key": "614f7cd71e1b0998dd81b026",
+    "salary": "2290.39",
+    "picture": "https://i.ytimg.com/vi/d_qS4geY4rk/maxresdefault.jpg",
+    "age": 56,
+    "name": "Dr. Shamim Boksha",
+    "Categories": "Gastrology",
+    "hospital": "National Hospital, Chittagong",
+    "phone": "+8801826691155",
+    "address": "14/15, Dampara Lane, Mehedibag, Chattogram"
+  },
+  {
+    "key": "614f7cd76edac5cace649335",
+    "salary": "1100.37",
+    "picture": "https://www.observerbd.com/2016/10/14/1476372086.jpg",
+    "age": 21,
+    "name": "Prof. Dr. Syed Atiqul Haq",
+    "Categories": "Bangladeshi physician",
+    "hospital": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "phone": "+8801916267769",
+    "address": "32, Green Road, Dhanmondi, Dhaka - 1205"
+  },
+  {
+    "key": "614f7cd73ee2c2096b91ac7a",
+    "salary": "3619.24",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/5/54/Quazi_Deen_Mohammad.jpg",
+    "age": 36,
+    "name": "Prof. Dr. Quazi Deen Mohammad",
+    "Categories": "Neurology & Medicine Specialist",
+    "hospital": "National Institute of Neurosciences & Hospital",
+    "phone": "+8802222229089",
+    "address": "135, New Eskaton Road, Dhaka -1000"
+  },
+  {
+    "key": "614f7cd7befb449451ce8d08",
+    "salary": "3105.83",
+    "picture": "https://specialistdoctorbd.com/wp-content/uploads/2019/02/Prof.-Dr.-Mamun-Al-Mahtab-Shwapnil.jpg",
+    "age": 38,
+    "name": "Prof. Dr. Mamun Al Mahtab Shwapnil",
+    "Categories": "Hepatologist & Gastroenterologist",
+    "hospital": "Bangabandhu Sheikh Mujib Medical University Hospital",
+    "phone": "10606",
+    "address": "Labaid Specialized Hospital, Dhanmondi"
+  },
+  {
+    "key": "614f7cd78bf440d584f927c6",
+    "salary": "2829.15",
+    "picture": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2020/10/Prof.-Mansurul-Alam.jpg",
+    "age": 25,
+    "name": "Prof. Dr. Mansurul Alam",
+    "Categories": "Skin & Sexual Diseases Specialist",
+    "hospital": "Chittagong Medical College & Hospital",
+    "phone": " +88031657361",
+    "address": "19, K.B. Fazlul Kader Road, Panchlish, Chattogram"
+  },
+  {
+    "key": "614f7cd750421df011d23b54",
+    "salary": "1599.74",
+    "picture": "https://emch.com.bd/wp-content/uploads/2018/01/Dr.-Md.-Hafizur-Rahman.jpg",
+    "age": 32,
+    "name": "Prof. Dr. Md. Hafizur Rahman",
+    "Categories": "Diabetes, Thyroid & Hormone Specialist",
+    "hospital": "Dhaka Medical College & Hospital",
+    "phone": "+8809613787805",
+    "address": "House # 25, Road # 7, Sector # 4, Uttara, Dhaka (Unit 02)"
+  },
+  {
+    "key": "614f7cd754236df5e0e82ac0",
+    "salary": "1770.86",
+    "picture": "https://specialistdoctorbd.com/wp-content/uploads/2019/11/Prof.-Dr.-M.U.-Kabir-Chowdhury.jpg",
+    "age": 31,
+    "name": "Prof. Dr. M. U. Kabir Chowdhury",
+    "Categories": "Skin, Allergy & Sexual Diseases Specialist",
+    "hospital": "Holy Family Red Crescent Medical College & Hospital",
+    "phone": "+88029103130",
+    "address": "57/E (Near Samorita Hospital), Panthapath, Dhaka"
+  },
+  {
+    "key": "614f7cd7ca1fe495a52a51dc",
+    "salary": "1565.14",
+    "picture": "https://visioneyebd.org/uploads/doctors/doctor_20200422032927.png",
+    "age": 29,
+    "name": "Dr. Md. Hasanuzzaman",
+    "Categories": "Neuromedicine Specialist",
+    "hospital": "MBBS. MCPS. FCPS (Eye)",
+    "phone": "+88031656565",
+    "address": "Asst. Prof. (Eye), Mugda Medical College, Dhaka"
+  },
+  {
+    "key": "614f7cd76ac0edbf6b92fa21",
+    "salary": "1165.38",
+    "picture": "http://www.nidch.gov.bd/da/AnwarulAnamKibria.jpg",
+    "age": 25,
+    "name": "Dr. Md. Anwarul Kibria",
+    "Categories": "Neuromedicine Specialist",
+    "hospital": "Chittagong Medical College & Hospital",
+    "phone": " +88031658501",
+    "address": "953, O.R. Nizam Road, GEC Mor, Panchlaish, Chattogram"
+  },
+  {
+    "key": "614f7cd7a4c25c3c0a52ef8e",
+    "salary": "2854.94",
+    "picture": "https://tritiyomatra.com/Media/PhotoGallery/tm-pg-34202fac-cfff-470e-b1d8-117f98cb0771-3.jpg",
+    "age": 33,
+    "name": "Prof. Dr. Jonaid Shafiq",
+    "Categories": "Pain Management Specialist",
+    "hospital": "Japan Bangladesh Friendship Hospital",
+    "phone": "+88029672277",
+    "address": "55 Satmasjid Road, Zigatola Bus Stand, Dhanmondi"
+  },
+  {
+    "key": "614f7cd7a447675ac3291cd5",
+    "salary": "2705.10",
+    "picture": "http://unitedinsurance.com.bd/wp-content/uploads/2020/09/wahiuddin.png",
+    "age": 29,
+    "name": "Prof. Dr. Wahiuddin Mahmood",
+    "Categories": "Anesthesiologist",
+    "hospital": "Square Hospital Ltd, Dhaka",
+    "phone": " 10616",
+    "address": "8/F, Kazi Nuruzzaman Road, West Panthapath, Dhaka"
+  },
+  {
+    "key": "614f7cd771bd58f2351e3a2a",
+    "salary": "1344.41",
+    "picture": "https://www.uhlbd.com/backend/web/product_uploads/1628340325_2_1473245429_2_Brig%20Gen%20Nazmul%20Ahsan.jpg",
+    "age": 30,
+    "name": "Dr. Brig. Gen. Md. Nazmul Ahsan",
+    "Categories": "Anesthesiology & Pain Management Specialist",
+    "hospital": "United Hospital, Dhaka",
+    "phone": "10666",
+    "address": "Plot # 15, Road # 71, Gulshan, Dhaka"
+  },
+  {
+    "key": "614f7cd75f21efcc64fd3bf9",
+    "salary": "1098.84",
+    "picture": "https://cloud.meddy.com/bd/profilepic/bhabesh-chandra-mondal/300/300/95/",
+    "age": 47,
+    "name": "Dr. Bhabesh Chandra Mondal",
+    "Categories": "Cardiac Anesthesiologist",
+    "hospital": "Square Hospital Ltd, Dhaka",
+    "phone": "10616",
+    "address": "8/F, Kazi Nuruzzaman Road, West Panthapath, Dhaka"
+  },
+  {
+    "key": "614f7cd7bd3022a8fa645e6e",
+    "salary": "1506.57",
+    "picture": "https://i.ytimg.com/vi/GRihbV0aGX0/maxresdefault.jpg",
+    "age": 40,
+    "name": "Dr. GM Mokbul Hossain",
+    "Categories": "Cardiac Surgery Specialist",
+    "hospital": "National Institute of Cardiovascular Diseases & Hospital",
+    "phone": "+8801823039800",
+    "address": "House # 68, Road # 15/A, Dhanmondi, Dhaka"
+  }
+]
